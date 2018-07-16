@@ -1,4 +1,3 @@
-# HCL
 Challenge - Two
 
 Reverse a String
@@ -9,8 +8,6 @@ Reverse a String
 
 Checking whether a string is Palindrome or not!
 
-      Palindrome can be defined as, a word when read from backward reads identical to when read from forward.
-      few examples would be malayalam, madam, step on no pets and etcetera
       
       First of all, store the given string with it's case ignored, reverse it and compare this reversed string with
       the original one using .equals method of String class as it compares the content present within the string objects
